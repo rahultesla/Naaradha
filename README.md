@@ -1,2 +1,2 @@
-# Naaratha
+# Naaradha
 Desktop Chat application
